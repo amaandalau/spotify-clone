@@ -13,9 +13,8 @@ _The 2nd line is pretty important, let's look at the ***'client_id'*** variable 
     - Then, click on 'Edit Settings' and add the following redirect URIs one by one: <br/>
         http://127.0.0.1:5500 <br/>
         http://127.0.0.1:5500/
-    - Once done, click 'Save'.
-    <br/>
-    
+    - Once done, click 'Save'.<br/>
+
       _However, if your frontend is running at a different URL, you will need to add it to the redirect URIs._ <br/>
       _For example, if your frontend is located at http://127.0.0.1:3000, you will need to add the following redirect URIs:_ <br/>
       _http://127.0.0.1:3000_ <br/>
